@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoviePoster</string>
+    <string name="movie_start_to_download">Start to download</string>
+    <string name="movie_finish_downloading">Finish downloading</string>
+</resources>
